@@ -1,0 +1,10 @@
+# Binaries and test output
+*.exe
+*.test
+*.out
+coverage.*
+
+# Editors and OS files
+.idea/
+.vscode/
+.DS_Store
